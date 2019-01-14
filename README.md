@@ -17,7 +17,7 @@ $ git clone https://github.com/siarohin/monsters.git
 3. Navigate to the monsters folder
 
 <pre>
-$ cd monsters
+$ cd monsters/source/
 </pre>
 
 4. Install dependencies
